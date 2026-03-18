@@ -1,5 +1,5 @@
-# Detoxifying LLMs: SFT vs. DPO on Phi-3 Mini (**Presentation Link: https://gamma.app/docs/Detoxifying-LLMs-m3a12tc33clfvqg**)
-
+# Detoxifying LLMs: SFT vs. DPO on Phi-3 Mini 
+(**Presentation Link: https://gamma.app/docs/Detoxifying-LLMs-m3a12tc33clfvqg**)
 Can fine-tuning a small quantized model reduce implicit toxicity? This project compares two alignment strategies — Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) — on Microsoft's Phi-3 Mini, using the ToxiGen dataset as the training signal and RealToxicityPrompts as the evaluation benchmark.
 
 ---
